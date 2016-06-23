@@ -229,9 +229,10 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-	"supergroup",
-	"whitelist",
-	"msg_checks"
+    "supergroup",
+    "whitelist",
+    "msg_checks"
+    "supergroupfa.lua
     },
     sudo_users = {97715211},--Sudo users
     moderation = {data = 'data/moderation.json'},
